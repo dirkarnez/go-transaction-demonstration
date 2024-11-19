@@ -1,8 +1,4 @@
-url-files-to-markdown
-=====================
-### How to use
-```
---dir={target}
-```
+go-transaction-demonstration
+============================
 ### TODOs
-- [ ] file urls (e.g. "application/pdf")
+- [ ] check whether is locking (e.g. is doing transaction)
