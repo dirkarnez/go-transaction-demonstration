@@ -6,3 +6,4 @@ go-transaction-demonstration
 
 ### Tutorials
 - [Go sync.Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/)
+- [读写锁和互斥锁的性能比较 | Go 语言高性能编程 | 极客兔兔](https://geektutu.com/post/hpg-mutex.html)
